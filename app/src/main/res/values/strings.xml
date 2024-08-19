@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplication1(Kuliah)</string>
+    <string name="toast">Login</string>
+    <string name="login">Login</string>
+    <string name="count">Count</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="text_with_color">Now Member? <font color="#0000FF">Register</font></string>
+</resources>
